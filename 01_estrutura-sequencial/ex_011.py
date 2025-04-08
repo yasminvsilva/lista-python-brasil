@@ -11,10 +11,6 @@ Calcule e mostre:
 
 Apresente os resultados com duas casas decimais.
 
-    O produto do dobro do primeiro com metade do segundo é 1806.00
-    A soma do triplo do primeiro com o terceiro é 129.14
-    O terceiro elevado ao cubo é 30.96
-
 """
 
 def calcular_formulas(n1, n2, n3):
