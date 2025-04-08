@@ -30,7 +30,7 @@ def calcular_assalto_no_salario(pgto_hora, horas_trabalhadas):
 - IR (11%): R$ {imposto_renda:.2f}
 - INSS (8%): R$ {inss:.2f}
 - Sindicato (5%): R$ {sindicato:.2f}
-= Salário Líquido: R$ {salario_liquido:.2f} """)
+= Salário Líquido: R$ {salario_liquido:.2f}""")
 
 calcular_assalto_no_salario(float(input("Digite quanto você ganha por hora: ")),
                             int(input("Digite quantas horas você trabalha por mês: ")))
